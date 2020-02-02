@@ -1,0 +1,97 @@
+#client_profile{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#client_profile  .breadcrumb{
+    background-color:rgb(246, 247, 251);
+    margin-left: -5%;
+}
+#client_profile .rounded_images{
+    border-radius: 100%;
+    width: 140px;
+    height: 120px;
+}
+#client_profile h5{
+    font-size: 24px;
+    color: black;
+    line-height: 28.8px;
+    font-weight: 700;
+}
+#client_profile h6{
+    font-size: 16px;
+    color: black;
+    line-height: 22px;
+    font-weight: 600;
+}
+#client_profile .contact_heading{
+    font-size: 15px;
+    color: grey;
+    line-height: 22px;
+    font-weight: 700;
+}
+#client_profile .contact_data{
+    font-size: 15px;
+    color: #0056b3;
+    line-height: 22px;
+    font-weight: 600;
+}
+#client_profile .personal_info{
+background-color: white;
+}
+#client_profile .contact_info{
+    border-left: 2px dashed grey;
+}
+
+#client_profile{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#client_profile h1{
+    font-size: 24px;
+    color: black;
+    font-weight: 600;
+}
+#client_profile h2{
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+}
+#client_profile h4{
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+}
+#client_profile p{
+    font-size: 14px;
+    color: grey;
+    font-weight: 600;
+    /* text-align: justify; */
+}
+#client_profile h3{
+    font-size: 16px;
+    
+}
+
+#client_profile .card_menu_icon{
+    font-size: 18px;
+    padding-bottom: -155px;
+    cursor: pointer;
+}
+#client_profile .client_project_heading{
+    font-size: 24px;
+    color: black;
+    line-height: 22px;
+    font-weight: 600;
+}
+.icons{
+margin-left: 75%;
+}
+.fa-pencil-alt{
+    color:rgb(13, 139, 241);
+}
+.edit_icon{
+    color: green;
+}
+img:hover{
+    opacity:1;
+}

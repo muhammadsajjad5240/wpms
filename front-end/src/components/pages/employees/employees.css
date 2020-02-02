@@ -1,0 +1,73 @@
+#all_employes{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#all_employes h1{
+    font-size: 24px;
+    color: black;
+    font-weight: 600;
+}
+#all_employes h2{
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+}
+#all_employes h3{
+    font-size: 16px;
+    color: grey;
+    font-weight: 600;
+}
+#all_employes input,select,option{
+    border-radius: 0;
+    border: 1px solid #e3e3e3;    
+}
+#all_employes input:focus,select:focus{
+    border: 1px solid #e3e3e3;    
+    outline: none;
+}
+#all_employes  .breadcrumb{
+    background-color:rgb(246, 247, 251);
+    margin-left: -5%;
+}
+#all_employes .search_btn{
+    border-radius: 0;
+    width: 100%;
+}
+/* #all_employes .card{
+    height: 200px;
+} */
+#all_employes .list_view{
+    font-size: 32px;
+}
+#all_employes .card_menu_icon{
+    font-size: 18px;
+    padding-bottom: -155px;
+    cursor: pointer;
+}
+#all_employes .delete_icon .edit_icon{
+    font-size: 16px;
+}
+#all_employes .action_list{
+    font-size: 18px;
+    display: none;
+}
+#all_employes .add_employee{
+    border-radius: 20px;
+}
+#all_employes .rounded_images{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    margin-left: 2000px;
+}
+#all_employes .sorry_msg{
+font-size: 24px;
+font-weight: 700;
+color: gray;
+}
+.dropdown.profile-action{
+    position: absolute;
+    right: 5px;
+    text-align: right;
+    top: 10px;
+}

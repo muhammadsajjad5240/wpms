@@ -1,0 +1,22 @@
+.field-icon {
+    font-size: 1.2em;
+    margin-top: -24px;
+    margin-left: 90%;
+    position: absolute;
+    color: black;
+    cursor: pointer;
+
+  }
+  /* @media only screen and (max-width:480px){
+    #eyeIcon .field-icon {
+        float: right;
+        font-size: 1.2em;
+        margin-top: -180px;
+        padding-right: 25px;
+        color: grey;
+        position: relative;
+        z-index: 2;
+        cursor: pointer;
+        
+      }
+  } */

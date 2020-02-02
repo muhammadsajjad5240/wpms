@@ -1,0 +1,8 @@
+#add_client label{
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+}
+#add_client input,select{
+    border:1px solid #ced4da
+}

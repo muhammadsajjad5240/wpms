@@ -1,0 +1,25 @@
+#our_services h1{
+    color: #333;
+    font-weight: 700;
+    font-size: 32px;
+}
+#our_services .service_icons{
+    font-size: 36px;
+    text-align: center;
+    padding-left: 37%;
+}
+#our_services h4{
+    font-size: 24px;
+    font-weight: 500;
+}
+#our_services img{
+    margin-left: 37%;
+    width: 50px;
+    height: 50px;
+}
+#our_services p{
+    font-size: 14px;
+    color: #333;
+    line-height: 22px;
+    font-weight: 500;
+}

@@ -1,0 +1,98 @@
+#projects{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#projects h1{
+    font-size: 24px;
+    color: black;
+    font-weight: 600;
+}
+#projects h2{
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+}
+#projects label{
+    color: '#000';
+    font-size:'14px';
+    font-weight:'700';
+}
+#projects h4{
+    font-size: 14px;
+    color: black;
+    font-weight: 600;
+}
+#projects p{
+    font-size: 14px;
+    color: grey;
+    font-weight: 600;
+    /* text-align: justify; */
+}
+#projects h3{
+    font-size: 16px;
+    
+}
+#projects input,select,option{
+    color: '#000';
+    font-size:'14px';
+    font-weight:'500';
+    border:'1px solid #ced4da';
+}
+#projects input:focus,select:focus{
+    border: 1px solid #e3e3e3;    
+    outline: none;
+}
+#projects  .breadcrumb{
+    background-color:rgb(246, 247, 251);
+    margin-left: -5%;
+}
+#projects .search_btn{
+    border-radius: 0;
+    width: 100%;
+}
+.btn-primary{
+    color: white;
+    background-color: #f43b48;
+
+}
+#projects .card{
+    height: 430px;
+}
+#projects .list_view{
+    font-size: 32px;
+}
+#projects .card_menu_icon{
+    font-size: 18px;
+    padding-bottom: -155px;
+    cursor: pointer;
+}
+#projects .actionicon{
+    font-size: 16px;
+}
+#projects .action_list{
+    font-size: 18px;
+    display: none;
+}
+#projects .add_employee{
+    border-radius: 20px;
+}
+#projects .rounded_images{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+}
+.icons{
+margin-left: 75%;
+}
+.fa-pencil-alt{
+    color:rgb(13, 139, 241);
+}
+.edit_icon{
+    color: green;
+}
+.dropdown.profile-action{
+    position: absolute;
+    right: 5px;
+    text-align: right;
+    top: 10px;
+}

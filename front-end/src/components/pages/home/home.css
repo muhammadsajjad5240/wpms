@@ -1,0 +1,12 @@
+.dash-widget-icon {
+    background-color: rgba(244, 59, 72, 0.2);
+    border-radius: 100%;
+    color: #f43b48;
+    font-size: 30px;
+    height: 60px;
+}
+.fa-project-diagram, .fa-cubes, .fa-user, .fa-dollar-sign{
+    font-size: 30px;
+    color:#f43b48;
+    float: left;
+}
