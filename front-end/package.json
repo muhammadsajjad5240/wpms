@@ -33,7 +33,7 @@
     "mongoose": "^5.7.13",
     "mui-datatables": "^2.13.1",
     "namor": "^1.1.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemailer": "^6.4.2",
     "number-to-words": "^1.2.4",
     "pdfkit": "^0.10.0",
